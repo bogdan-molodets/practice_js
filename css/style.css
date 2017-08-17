@@ -1,0 +1,63 @@
+/*body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}*/
+/*html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}*/
+#logo{
+    margin-left: 10px;
+    margin-bottom: 50px;
+    font-weight: 400;
+}
+
+nav{
+    padding: 25px;!important;
+}
+.rate{
+    min-height:400px;
+}
+.table-name{
+    line-height: 1.5;
+    font-weight: 400;
+    font-size: 2em;
+    text-align: center;
+}
+span{
+    font-size: 1.5em;
+}
+#points,#time{
+    margin: 10px;
+    float: none;!important;
+    font-size: 2em;
+    font-weight: 400;
+}
+#timer_and_points{
+    margin-left: 100px;!important;
+    /*padding-right: 100px;!important;*/
+}
+#timer_and_points li{
+    margin-right: 100px;
+}
+#game-area{
+    position: relative;
+    min-height: 400px;
+    overflow:hidden;
+}
+.container{
+    width:90%;!important;
+}
+.cube{
+    cursor: pointer;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
